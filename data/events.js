@@ -1,0 +1,262 @@
+window.EVENTS_DATA = [
+  {
+    "date": "14M BCE",
+    "event": "Bangui Event",
+    "description": "Start of Sol-3 seeding & terraforming program with SVA insertions."
+  },
+  {
+    "date": "13.5M BCE",
+    "event": "SVA Type A propagation",
+    "description": "Crashed probe in Bangui-Gobero transect"
+  },
+  {
+    "date": "5M BCE",
+    "event": "Detection of biosphere",
+    "description": "Denebian probes detect a biosphere on Sol-3, confirming successful seeding & terraforming."
+  },
+  {
+    "date": "1947",
+    "event": "Roswell Incident",
+    "description": "High-altitude balloon ONR-412 fitted with radioisotope detectors fell to the ground. Reason for Classification: The exposed population will suffer from mutagenesis effects, which are propagated from generation to generation. Permanent secret. No disclosure."
+  },
+  {
+    "date": "1953",
+    "event": "Utah-1953",
+    "description": ""
+  },
+  {
+    "date": "1964",
+    "event": "Solway Firth Incident",
+    "description": "Time-traveler from Sol-3 STO-3100 caught on camera."
+  },
+  {
+    "date": "1967",
+    "event": "UFO Wave",
+    "description": "Migrating species traveled to Sol-3 and caused a UFO wave"
+  },
+  {
+    "date": "1974",
+    "event": "Coyame-1974",
+    "description": ""
+  },
+  {
+    "date": "1975",
+    "event": "First Mil-Orbs introduced",
+    "description": ""
+  },
+  {
+    "date": "1976",
+    "event": "CAFB Exchange",
+    "description": "Clovis Airfield Base Exchange was the first time communication occurred with a Giselian craft in a signal exchange from January to April. CAFB protocol is said to be the most classified document in the US."
+  },
+  {
+    "date": "1976",
+    "event": "Desertron project begins",
+    "description": "The Superconducting Super Collider (SSC) military-lead supercollider construction begins"
+  },
+  {
+    "date": "1980",
+    "event": "Rendlesham Forest incident",
+    "description": ""
+  },
+  {
+    "date": "1980",
+    "event": "Bentwaters Giselian probe encounter",
+    "description": "XViS recording of a human vs. Giselian probe"
+  },
+  {
+    "date": "1992",
+    "event": "The Queltron Machine",
+    "description": "Desertron project was renamed Queltron Machine and assigned under XViS."
+  },
+  {
+    "date": "2002",
+    "event": "Paintsville UFO Incident",
+    "description": "A Giselian probe crashed into a train while being hunted down by two Sol-3 probes from STO-2710."
+  },
+  {
+    "date": "2004-2010",
+    "event": "Ghazni Incident",
+    "description": ""
+  },
+  {
+    "date": "2008",
+    "event": "Qantas QF72",
+    "description": ""
+  },
+  {
+    "date": "2014",
+    "event": "Arizona-2014",
+    "description": "Human vs. Mil-Orb test"
+  },
+  {
+    "date": "2014",
+    "event": "MH370",
+    "description": ""
+  },
+  {
+    "date": "2014",
+    "event": "USO-1340",
+    "description": ""
+  },
+  {
+    "date": "2015",
+    "event": "Colorado-2015",
+    "description": "Military Crew vs PSV"
+  },
+  {
+    "date": "2016",
+    "event": "Yulara Event",
+    "description": "Successfully predicted event captured with various advanced sensors, resulting in high-quality data about the Giselians"
+  },
+  {
+    "date": "2023",
+    "event": "LA Earthquake",
+    "description": "Predicted mega earthquake in California region"
+  },
+  {
+    "date": "2025",
+    "event": "Queltron Injection A",
+    "description": ""
+  },
+  {
+    "date": "2027",
+    "event": "Queltron Injection B",
+    "description": ""
+  },
+  {
+    "date": "2029",
+    "event": "Queltron Injection C",
+    "description": ""
+  },
+  {
+    "date": "2030",
+    "event": "Geminovirus Deployment",
+    "description": "Introduce modified geminivirus to trigger global food shortages and a population collapse on Sol-3"
+  },
+  {
+    "date": "2050",
+    "event": "Genetic Manipulation Tech",
+    "description": "By 2050, genetic manipulation technologies \u2013 at least the most basic ones \u2013 will have been simplified and standardized to such an extent that some will decide to turn them into a hobby."
+  },
+  {
+    "date": "2050",
+    "event": "Mil-Orb Deployment",
+    "description": "Global deployment of Mil-Orbs"
+  },
+  {
+    "date": "2063",
+    "event": "Internet energy consumption",
+    "description": "Internet energy consumption requires 1500 nuclear power plants (2016 average)."
+  },
+  {
+    "date": "2065",
+    "event": "LyAv fully autonomous",
+    "description": "LyAv supercomputer/AI will reach full autonomy."
+  },
+  {
+    "date": "2075",
+    "event": "Global collapse of fishing resources",
+    "description": ""
+  },
+  {
+    "date": "2075",
+    "event": "US-China war",
+    "description": "Planned year for US war against China"
+  },
+  {
+    "date": "2103",
+    "event": "Early Queltron technology",
+    "description": "First time trapping a macroscopic object inside a closed-timelike-curve"
+  },
+  {
+    "date": "2200",
+    "event": "Civilization Ending Climate Change",
+    "description": ""
+  },
+  {
+    "date": "2275-2500",
+    "event": "Heritage Mission",
+    "description": "Window of opportunity to launch a Heritage spacecraft"
+  },
+  {
+    "date": "2300",
+    "event": "Orbital data centers",
+    "description": "Switch from subsea data centers to orbital."
+  },
+  {
+    "date": "2368",
+    "event": "Asteroid impact",
+    "description": ""
+  },
+  {
+    "date": "2500",
+    "event": "Critical Collapse",
+    "description": ""
+  },
+  {
+    "date": "3020-3194",
+    "event": "Sol-3 global population collapse",
+    "description": ""
+  },
+  {
+    "date": "3100",
+    "event": "Giselian target for Sol-3 collapse",
+    "description": ""
+  },
+  {
+    "date": "3300",
+    "event": "Type-II civilization",
+    "description": ""
+  },
+  {
+    "date": "3100-3500",
+    "event": "Critical Point",
+    "description": ""
+  },
+  {
+    "date": "3775",
+    "event": "Terminal asteroid collision",
+    "description": ""
+  },
+  {
+    "date": "4130",
+    "event": "Advanced superhuman civilization",
+    "description": ""
+  },
+  {
+    "date": "5 Million Years",
+    "event": "Total Degradation of Y-chromosome",
+    "description": "Degradation of Y-chromosome as a result of a natural genetic decay process."
+  },
+  {
+    "date": "8 Million Years",
+    "event": "Genesis probes arrive",
+    "description": ""
+  },
+  {
+    "date": "8.4 Million Years",
+    "event": "LAGEOS Re-Entry",
+    "description": ""
+  },
+  {
+    "date": "-7795.08787.97540.28930",
+    "event": "New Sol-3 design",
+    "description": "Newly terraformed Sol-3 is expected to operate with suspension feeders feeding upon class 3A/7 phytoplankton fully."
+  },
+  {
+    "date": "-7795.08787.97540.28956",
+    "event": "Intelligent Tenebrionoidea superfamilies",
+    "description": "SV06n group proposes a design with extensive larval diversification. We cannot prevent the emergent species from possessing supernatural intelligence and aggression."
+  },
+  {
+    "date": "14282.84157.10074.6849",
+    "event": "No-apes solution",
+    "description": "Guarantee the total absence of hominids and apes."
+  },
+  {
+    "date": "52035.61119.79953.3650",
+    "event": "Intervention point",
+    "description": "Ensure no re-emergence of humans."
+  }
+];
